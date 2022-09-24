@@ -15,7 +15,7 @@ Discord: [Cyclops#1952](https://top.gg/user/604034501210800128)
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="GitHub" width="26px" src="https://dreae.gallerycdn.vsassets.io/extensions/dreae/sourcepawn-vscode/0.1.4/1515276846898/Microsoft.VisualStudio.Services.Icons.Default" />
 
 <br />
 <br />
