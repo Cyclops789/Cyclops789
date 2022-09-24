@@ -16,6 +16,7 @@ Discord: [Cyclops#1952](https://top.gg/user/604034501210800128)
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="26px" src="https://dreae.gallerycdn.vsassets.io/extensions/dreae/sourcepawn-vscode/0.1.4/1515276846898/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="GitHub" width="26px" src="https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2022.15.12631011/1663668880930/Microsoft.VisualStudio.Services.Icons.Default" />
 
 <br />
 <br />
