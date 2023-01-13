@@ -14,12 +14,3 @@ Discord: **Cyclops#1952**
 <img align="left" alt="WordPress" width="26px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" />
 <img align="left" alt="Linux" width="26px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
 <img align="left" alt="Docker" width="26px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />
-
-<br />
-<br />
-
-# Discord Bots
-
-<a href="https://top.gg/bot/808425789494263838">
-  <img src="https://top.gg/api/widget/808425789494263838.svg">
-</a>
