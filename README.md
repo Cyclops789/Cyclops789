@@ -14,3 +14,6 @@
 <img align="left" alt="WordPress" width="26px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" />
 <img align="left" alt="Linux" width="26px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
 <img align="left" alt="Docker" width="26px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />
+<img align="left" alt="TypeSript" width="26px" src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-typescript-next/5.4.20231225/1703549319203/Microsoft.VisualStudio.Services.Icons.Small" />
+<img align="left" alt="ReactJS" width="26px" src="https://jawandarajbir.gallerycdn.vsassets.io/extensions/jawandarajbir/react-vscode-extension-pack/1.0.0/1657754706795/Microsoft.VisualStudio.Services.Icons.Small" />
+<img align="left" alt="VueJS" width="26px" src="https://devlos.gallerycdn.vsassets.io/extensions/devlos/vuejs-snippets/0.11.0/1699989541719/Microsoft.VisualStudio.Services.Icons.Small" />
