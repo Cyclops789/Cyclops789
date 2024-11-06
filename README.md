@@ -1,14 +1,16 @@
+![Visitor Count](https://profile-counter.glitch.me/Cyclops789/count.svg)
+
+## Skills:
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Web+Developer;Sys-Admin;Mobile+Developer;DevOps)](https://git.io/typing-svg)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="SourcePawn" width="26px" src="https://dreae.gallerycdn.vsassets.io/extensions/dreae/sourcepawn-vscode/0.1.4/1515276846898/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Python" width="26px" src="https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2022.15.12631011/1663668880930/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="WordPress" width="26px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" />
@@ -18,3 +20,4 @@
 <img align="left" alt="ReactJS" width="26px" src="https://jawandarajbir.gallerycdn.vsassets.io/extensions/jawandarajbir/react-vscode-extension-pack/1.0.0/1657754706795/Microsoft.VisualStudio.Services.Icons.Small" />
 <img align="left" alt="VueJS" width="26px" src="https://devlos.gallerycdn.vsassets.io/extensions/devlos/vuejs-snippets/0.11.0/1699989541719/Microsoft.VisualStudio.Services.Icons.Small" />
 <img align="left" alt="NextJS" width="26px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
