@@ -1,10 +1,12 @@
+### Visitors:
+
 ![Visitor Count](https://profile-counter.glitch.me/Cyclops789/count.svg)
 
-## Skills:
+### Skills:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Web+Developer;Sys-Admin;Mobile+Developer;DevOps)](https://git.io/typing-svg)
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
